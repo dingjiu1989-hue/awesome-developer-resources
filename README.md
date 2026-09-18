@@ -48,6 +48,7 @@ Proven ways developers earn money beyond their day job.
 The tools, editors, and extensions that make the difference between 1x and 10x productivity.
 
 - **[15 Essential Chrome Extensions for Developers](https://dingjiu1989-hue.github.io/en/tools/chrome-plugins.html)** — Security, productivity, dev tools, design. Categorized by use case.
+- **[NextReset](https://nextreset.ai/)** — Codex reset-history and official AI-service incident reference with a browser-local personal countdown.
 - **[VS Code Extensions to Double Your Productivity](https://dingjiu1989-hue.github.io/en/tech/vscode-extensions.html)** — AI completion, Git visualization, formatting, remote dev. The first 10 to install.
 - **[VS Code vs JetBrains vs Cursor (2026)](https://dingjiu1989-hue.github.io/en/tools/editor-comparison-2026.html)** — Performance, AI features, pricing, and use-case recommendations.
 - **[10 Free Online Tools You'll Use Every Day](https://dingjiu1989-hue.github.io/en/tools/online-tools-2026.html)** — Image compression, diagramming, PDF tools, JSON visualization. No signup required.
