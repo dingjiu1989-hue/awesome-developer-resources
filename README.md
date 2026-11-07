@@ -47,6 +47,7 @@ Proven ways developers earn money beyond their day job.
 
 The tools, editors, and extensions that make the difference between 1x and 10x productivity.
 
+- **[ASCII Images Flowchart Generator](https://ascii-images.com/ascii-flowchart-generator)** — Free browser tool for generating plain-text flowcharts for READMEs and documentation without an account.
 - **[15 Essential Chrome Extensions for Developers](https://dingjiu1989-hue.github.io/en/tools/chrome-plugins.html)** — Security, productivity, dev tools, design. Categorized by use case.
 - **[VS Code Extensions to Double Your Productivity](https://dingjiu1989-hue.github.io/en/tech/vscode-extensions.html)** — AI completion, Git visualization, formatting, remote dev. The first 10 to install.
 - **[VS Code vs JetBrains vs Cursor (2026)](https://dingjiu1989-hue.github.io/en/tools/editor-comparison-2026.html)** — Performance, AI features, pricing, and use-case recommendations.
